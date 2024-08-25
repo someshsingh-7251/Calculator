@@ -25,11 +25,15 @@ INSTALLATION
 
 To get a local copy up and running, follow these simple steps:
 
-Clone the repository: git clone https://github.com/someshsingh-7251/calculator.git
+1. Clone the repository: 
 
-Navigate to the project directory: cd calculator
+       git clone https://github.com/someshsingh-7251/calculator.git
 
-Open index.html in your browser to view the calculator.
+2. Navigate to the project directory:
+
+       cd calculator
+
+3. Open index.html in your browser to view the calculator.
 
 USAGE
 
