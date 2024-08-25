@@ -50,3 +50,7 @@ ACKNOWLEDGEMENTS
 
 1. W3Schools for providing great learning resources on HTML, CSS, and JavaScript.
 2. The developer community for inspiration and code snippets.
+
+
+
+Note: Fell Free to Contact at Instagram: https://www.instagram.com/officialsomeshchinkusingh?igsh=MW1vdTZwbDdmMTZxbw== 
