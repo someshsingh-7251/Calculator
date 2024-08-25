@@ -53,4 +53,4 @@ ACKNOWLEDGEMENTS
 
 
 
-Note: Fell Free to Contact at Instagram: https://www.instagram.com/officialsomeshchinkusingh?igsh=MW1vdTZwbDdmMTZxbw== 
+Note: Feel Free to Contact at Instagram: https://www.instagram.com/officialsomeshchinkusingh?igsh=MW1vdTZwbDdmMTZxbw== 
