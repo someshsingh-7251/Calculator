@@ -1,4 +1,4 @@
-                                                      CALCULATOR
+                            CALCULATOR
                         
 A simple and intuitive calculator built using HTML, CSS, and JavaScript. This project is designed to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
