@@ -5,21 +5,21 @@ A simple and intuitive calculator built using HTML, CSS, and JavaScript. This pr
 
 ## FEATURES
 
-Basic Operations: Supports addition, subtraction, multiplication, and division.
+- **Basic Operations:** Supports addition, subtraction, multiplication, and division.
 
-Responsive Design: The calculator is responsive and works well on various screen sizes.
+- **Responsive Design:** The calculator is responsive and works well on various screen sizes.
 
-Clear Functionality: Easily reset the current calculation with the clear button.
+- **Clear Functionality:** Easily reset the current calculation with the clear button.
 
-Intuitive UI: A clean and user-friendly interface designed with CSS.
+- **Intuitive UI:** A clean and user-friendly interface designed with CSS.
 
-THECHNOLOGY USED
+## THECHNOLOGY USED
 
-HTML5: For the basic structure of the calculator.
+- **HTML5:** For the basic structure of the calculator.
 
-CSS3: For styling the calculator interface.
+- **CSS3:** For styling the calculator interface.
 
-JavaScript: For implementing the calculator's logic and interactions.
+- **JavaScript:** For implementing the calculator's logic and interactions.
 
 ## INSTALLATION
 
