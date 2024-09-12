@@ -1,4 +1,4 @@
-## CALCULATOR
+# CALCULATOR
                         
 A simple and intuitive calculator built using HTML, CSS, and JavaScript. This project is designed to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
@@ -57,5 +57,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 
 
-## Note: 
-Feel Free to Contact at Instagram: https://www.instagram.com/officialsomeshchinkusingh?igsh=MW1vdTZwbDdmMTZxbw== 
+---
+
+*Note: Feel Free to Contact at Instagram: https://www.instagram.com/officialsomeshchinkusingh?igsh=MW1vdTZwbDdmMTZxbw==*
